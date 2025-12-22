@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Najmi Shahmi
 
-🎓 First Year Data Engineering Student at **Universiti Teknologi Malaysia (UTM)**  
-📍 Malaysia  
+🎓 | 1st Year - Bachelor of Computer Science (Data Engineering) with Honours |**Universiti Teknologi Malaysia (UTM)**  
+📍 Johor Bahru, Malaysia  
 💡 Interested in **Data Engineering, Data Analytics, Big Data Systems & Software Development**
 
 ---
