@@ -77,13 +77,13 @@ My academic background includes:
 ## 📊 Development Activity
 
 ### GitHub Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=najmishahmi33-create&theme=tokyo-night)
 
 ### GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=najmishahmi33-create&show_icons=true&theme=tokyonight)
 
 ### Commit Streak
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=najmishahmi33-create&theme=tokyonight)
 
 
 
