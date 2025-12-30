@@ -74,6 +74,18 @@ My academic background includes:
 
 ⭐ *Feel free to explore my repositories and projects!*
 
+## 📊 Development Activity
+
+### GitHub Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+
+### GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+### Commit Streak
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+
 
 <!--
 **najmishahmi33-create/najmishahmi33-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
