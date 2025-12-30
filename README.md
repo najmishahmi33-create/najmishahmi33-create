@@ -66,9 +66,10 @@ My academic background includes:
 ---
 
 ## 📫 Contact Me
-- GitHub: https://github.com/najmishahmi33-create
-- Email: muhammadnajmishahmi@student.utm.my
-- LinkedIn: https://www.linkedin.com/in/najmi-shahmi-87a17336a/
+
+[![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/najmishahmi33-create)  
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadnajmishahmi@graduate.utm.my)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najmi-shahmi-87a17336a/)
 
 ---
 
