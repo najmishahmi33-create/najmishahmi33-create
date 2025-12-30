@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Najmi Shahmi
+# <h1 align="center">Najmi Shahmi</h1>
 
 🎓 | 1st Year - Bachelor of Computer Science (Data Engineering) with Honours |**Universiti Teknologi Malaysia (UTM)**  
 📍 Johor Bahru, Malaysia  
