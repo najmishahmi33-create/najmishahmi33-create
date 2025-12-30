@@ -89,6 +89,10 @@ My academic background includes:
 <img src="https://img.shields.io/github/commit-activity/m/najmishahmi33-create/najmishahmi33-create" />
 <img src="https://img.shields.io/github/last-commit/najmishahmi33-create/najmishahmi33-create" />
 
+### 🔥 Commit Streak
+<img src="https://streak-stats.demolab.com?user=najmishahmi33-create" />
+
+
 
 
 
