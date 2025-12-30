@@ -18,21 +18,21 @@ My academic background includes:
 
 ## 🛠️ Technical Skills
 
-### Programming
-- C++
-- HTML
+### 💻 Programming
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### Data Analysis & Visualization
-- Microsoft Excel
-- Charts & graphs
-- Microsoft word
+### 📊 Data Analysis & Visualization
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Charts](https://img.shields.io/badge/Charts-4CAF50?style=for-the-badge&logo=chart&logoColor=white)
 
-### Tools & Platforms
-- GitHub
-- Visual Studio Code
-- Dev c++
-- LinkedIn
-- Deeds
+### 🛠️ Tools & Platforms
+![GitHub](https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Dev C++](https://img.shields.io/badge/Dev_C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![Deeds](https://img.shields.io/badge/Deeds-FF6F61?style=for-the-badge&logo=appveyor&logoColor=white)
+
 
 ---
 
