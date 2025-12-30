@@ -79,11 +79,12 @@ My academic background includes:
 ### GitHub Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=najmishahmi33-create&theme=tokyo-night)
 
-### GitHub Stats
+### 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=najmishahmi33-create&show_icons=true&theme=tokyonight)
 
-### Commit Streak
+### 🔥 Commit Streak
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=najmishahmi33-create&theme=tokyonight)
+
 
 
 
