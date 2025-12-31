@@ -1,4 +1,7 @@
-# <h1 align="center">Najmi Shahmi</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Najmi%20Shahmi&fontSize=50&fontAlignY=40&animation=twinkling" />
+</p>
+
 
 🎓 | 1st Year - Bachelor of Computer Science (Data Engineering) with Honours |**Universiti Teknologi Malaysia (UTM)**  
 📍 Johor Bahru, Malaysia  
