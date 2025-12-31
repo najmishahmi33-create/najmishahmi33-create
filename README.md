@@ -2,14 +2,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Najmi%20Shahmi&fontSize=50&fontAlignY=40&animation=twinkling" />
 </p>
 
-
-🎓 | 1st Year - Bachelor of Computer Science (Data Engineering) with Honours |**Universiti Teknologi Malaysia (UTM)**  
-📍 Johor Bahru, Malaysia  
+<p align="center">
+🎓 | 1st Year - Bachelor of Computer Science (Data Engineering) with Honours |**Universiti Teknologi Malaysia (UTM)**<br>
+📍 </b>Johor Bahru, Malaysia  <br>
 💡 Interested in **Data Engineering, Data Analytics, Big Data Systems & Software Development**
+</p>
 
 ---
 
-## 🚀 About Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=🚀%20About%20Me&fontSize=32&color=800000&fontColor=800000" />
+</p>
+
+
 I am currently studying **Data Engineering** at UTM.  
 I enjoy building **data-driven systems**, writing **efficient programs**, and exploring how data pipelines, databases, and analytics support real-world decision making.
 
