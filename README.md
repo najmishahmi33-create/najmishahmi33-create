@@ -80,19 +80,12 @@ My academic background includes:
 ### GitHub Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=najmishahmi33-create&theme=tokyo-night)
 
-### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=najmishahmi33-create&show_icons=true" />
-
 ### Contribution Summary
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najmishahmi33-create&theme=default" />
 
 ### Commit Activity
 <img src="https://img.shields.io/github/commit-activity/m/najmishahmi33-create/najmishahmi33-create" />
 <img src="https://img.shields.io/github/last-commit/najmishahmi33-create/najmishahmi33-create" />
-
-### 🔥 Commit Streak
-<img src="https://streak-stats.demolab.com?user=najmishahmi33-create" />
-
 
 
 
