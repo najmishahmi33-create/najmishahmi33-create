@@ -11,8 +11,10 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=🚀%20About%20Me&fontSize=32&color=800000&fontColor=800000" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&text=%F0%9F%9A%80%20About%20Me&fontSize=36&color=1F6FEB&fontColor=FFFFFF" />
 </p>
+
+
 
 
 I am currently studying **Data Engineering** at UTM.  
