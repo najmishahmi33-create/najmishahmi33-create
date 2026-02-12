@@ -3,26 +3,22 @@
 </p>
 
 <p align="center">
-🎓 | 1st Year - Bachelor of Computer Science (Data Engineering) with Honours |**Universiti Teknologi Malaysia (UTM)**<br>
-📍 </b>Johor Bahru, Malaysia  <br>
+🎓 1st Year - Bachelor of Computer Science (Data Engineering) with Honours | **Universiti Teknologi Malaysia (UTM)**<br>
+📍 Johor Bahru, Malaysia<br>
 💡 Interested in **Data Engineering, Data Analytics, Big Data Systems & Software Development**
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&text=%F0%9F%9A%80%20About%20Me&fontSize=36&color=1F6FEB&fontColor=FFFFFF" />
-</p>
-
-
-
+## 🚀 About Me
 
 I am currently studying **Data Engineering** at UTM.  
-I enjoy building **data-driven systems**, writing **efficient programs**, and exploring how data pipelines, databases, and analytics support real-world decision making.
+I enjoy building **data-driven systems**, writing **efficient programs**, and exploring how data pipelines, databases, and analytics support real-world decision-making.
 
-My academic background includes:
+**Core strengths:**
 - Programming (C++)
 - System Design & Problem Solving
+- Data Analytics Basics
 
 ---
 
@@ -41,57 +37,53 @@ My academic background includes:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Dev C++](https://img.shields.io/badge/Dev_C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![Deeds](https://img.shields.io/badge/Deeds-FF6F61?style=for-the-badge&logo=appveyor&logoColor=white)
-
+![DEEDS](https://img.shields.io/badge/DEEDS-FF6F61?style=for-the-badge&logo=appveyor&logoColor=white)
 
 ---
+
 ## 📂 Featured Projects
 
 ### 🔹 Technology and Information Systems
-
-* **EquinnConnect – Design Thinking Project**
-
----
+- **EquinnConnect – Design Thinking Project**
 
 ### 🔹 Programming Techniques I (C++)
+- **Car Loan Calculator (C++ Console Application)**
+- **University Student Statistics Analyzer (C++)**
 
-* **Car Loan Calculator (C++ Console Application)**
-* **University Student Statistics Analyzer (C++)**
+### 🔹 Digital Logic Design
+- **Elevator Controller System (DEEDS Simulator)**
 
 ---
 
-### 🔹 Digital Logic Design
+## 🏅 Conferences & Activities
 
-* **Elevator Controller System (DEEDS Simulator)**
+### Leadership
+- Person in Charge (PIC), **Sukan Sains Komputer 2025 (SUSKOM'25)**
 
-## 🏅 Conferences, Activities & Involvement
-
-* Participant, **ASEAN Quantum Summit 2025**
-* Participant, **Festival of Ideas 2025**
-* Person in Charge (PIC), **Sukan Sains Komputer 2025 (SUSKOM'25)**
-* Participant, **Karnival Sukan Minggu Mesra Mahasiswa 2025**
-* Participant, **Sambutan Hari Akademia Universiti Teknologi Malaysia 2025**
-* Participant, **UTM Digital Day Open Day 2025**
-* Participant, **First Year Campus Adaptation, Resilience and Environment (FYCARE) Program 2025**
-* Participant, **UTM Games 2025 (ULTRAS)**
-* Participant, **Student Enhancement SECP (Data Engineering) Program 2025**
-* Participant, **UNBOCS 2025**
-* Participant, **Industry Talk 1 (PPG)**
-* Participant, **Industry Talk 2 (Serunai)**
-* Participant, **Athlete Gathering Kolej Tun Razak**
+### Participation
+- Participant, **ASEAN Quantum Summit 2025**
+- Participant, **Festival of Ideas 2025**
+- Participant, **Karnival Sukan Minggu Mesra Mahasiswa 2025**
+- Participant, **Sambutan Hari Akademia Universiti Teknologi Malaysia 2025**
+- Participant, **UTM Digital Day Open Day 2025**
+- Participant, **First Year Campus Adaptation, Resilience and Environment (FYCARE) Program 2025**
+- Participant, **UTM Games 2025 (ULTRAS)**
+- Participant, **Student Enhancement SECP (Data Engineering) Program 2025**
+- Participant, **UNBOCS 2025**
+- Participant, **Industry Talk 1 (PPG)**
+- Participant, **Industry Talk 2 (Serunai)**
+- Participant, **Athlete Gathering Kolej Tun Razak**
 
 ---
 
 ## 📚 Currently Learning
 
-* **SECI1013 – Discrete Structures**
-* **SECJ1013 – Programming Techniques I (C++)**
-* **SECP1513 – Technology and Information Systems**
-* **SECR1013 – Digital Logic Design**
-* **ULRS1032 – Integrity and Anti-Corruption**
-* **UHLB1112 – English Communication Skills**
-
-
+- **SECI1013 – Discrete Structures**
+- **SECJ1013 – Programming Techniques I (C++)**
+- **SECP1513 – Technology and Information Systems**
+- **SECR1013 – Digital Logic Design**
+- **ULRS1032 – Integrity and Anti-Corruption**
+- **UHLB1112 – English Communication Skills**
 
 ---
 
@@ -105,6 +97,8 @@ My academic background includes:
 
 ⭐ *Feel free to explore my repositories and projects!*
 
+---
+
 ## 📊 Development Activity
 
 ### GitHub Contribution Graph
@@ -115,23 +109,4 @@ My academic background includes:
 
 ### Commit Activity
 <img src="https://img.shields.io/github/commit-activity/m/najmishahmi33-create/najmishahmi33-create" />
-<img src="https://img.shields.io/github/last-commit/najmishahmi33-create/najmishahmi33-create" />
-
-
-
-
-
-<!--
-**najmishahmi33-create/najmishahmi33-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/github/last-commit/n/najmishahmi33-create/najmishahmi33-create" />
