@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 I am currently studying **Data Engineering** at UTM.  
-I enjoy building **data-driven systems**, writing **efficient programs**, and exploring how data pipelines, databases, and analytics support real-world decision-making.
+Building data-driven solutions, writing efficient programs, and turning data into actionable insights for real-world applications.
 
 **Core strengths:**
 - Programming (C++)
