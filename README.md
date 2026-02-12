@@ -44,11 +44,11 @@ Building data-driven solutions, writing efficient programs, and turning data int
 ## 📂 Featured Projects
 
 ### 🔹 Technology and Information Systems
-- **EquinnConnect – Design Thinking Project**
+- [**EquinnConnect – Design Thinking Project**](https://github.com/miqbaltariq/SECP1513202520261/blob/main/najmishahmi33-create/Design%20Thinking%20Project%20EquinConnect.pdf)
 
 ### 🔹 Programming Techniques I (C++)
-- **Car Loan Calculator (C++ Console Application)**
-- [**University Student Statistics Analyzer (C++)**](https://github.com/miqbaltariq/SECP1513202520261/edit/main/najmishahmi33-create/coding.cpp)
+- [**Car Loan Calculator (C++ Console Application)**](https://github.com/miqbaltariq/SECP1513202520261/blob/main/najmishahmi33-create/coding_calculator.cpp)
+- [**University Student Statistics Analyzer (C++)**](https://github.com/miqbaltariq/SECP1513202520261/blob/main/najmishahmi33-create/coding.cpp)
 
 
 ### 🔹 Digital Logic Design
