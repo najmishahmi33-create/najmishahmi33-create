@@ -45,33 +45,53 @@ My academic background includes:
 
 
 ---
-
 ## 📂 Featured Projects
 
-### 🔹 Data Engineering Projects
-- **Car Loan Calculator (ETL)**  
-  Built Car Loan Calculator using C++.
+### 🔹 Technology and Information Systems
 
-### 🔹 Software Development
-- **C++ Online Shopping System**  
-  Console-based system with:
-  - Product search (keyword & category)
-  - Shopping cart
-  - User profile & payment management
-  - Invoice generation
+* **EquinnConnect – Design Thinking Project**
 
 ---
 
-## 📜 Certifications & Events
-- Participant, **ASEAN Quantum Summit 2025**
+### 🔹 Programming Techniques I (C++)
+
+* **Car Loan Calculator (C++ Console Application)**
+* **University Student Statistics Analyzer (C++)**
 
 ---
 
-## 📈 Currently Learning
-- Discrete Structure
-- Programming Technique I
-- Technology and Information System
-- Didital Logic
+### 🔹 Digital Logic Design
+
+* **Elevator Controller System (DEEDS Simulator)**
+
+## 🏅 Conferences, Activities & Involvement
+
+* Participant, **ASEAN Quantum Summit 2025**
+* Participant, **Festival of Ideas 2025**
+* Person in Charge (PIC), **Sukan Sains Komputer 2025 (SUSKOM'25)**
+* Participant, **Karnival Sukan Minggu Mesra Mahasiswa 2025**
+* Participant, **Sambutan Hari Akademia Universiti Teknologi Malaysia 2025**
+* Participant, **UTM Digital Day Open Day 2025**
+* Participant, **First Year Campus Adaptation, Resilience and Environment (FYCARE) Program 2025**
+* Participant, **UTM Games 2025 (ULTRAS)**
+* Participant, **Student Enhancement SECP (Data Engineering) Program 2025**
+* Participant, **UNBOCS 2025**
+* Participant, **Industry Talk 1 (PPG)**
+* Participant, **Industry Talk 2 (Serunai)**
+* Participant, **Athlete Gathering Kolej Tun Razak**
+
+---
+
+## 📚 Currently Learning
+
+* **SECI1013 – Discrete Structures**
+* **SECJ1013 – Programming Techniques I (C++)**
+* **SECP1513 – Technology and Information Systems**
+* **SECR1013 – Digital Logic Design**
+* **ULRS1032 – Integrity and Anti-Corruption**
+* **UHLB1112 – English Communication Skills**
+
+
 
 ---
 
