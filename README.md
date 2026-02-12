@@ -51,8 +51,9 @@ Building data-driven solutions, writing efficient programs, and turning data int
 - [**University Student Statistics Analyzer (C++)**](https://github.com/miqbaltariq/SECP1513202520261/blob/main/najmishahmi33-create/coding.cpp)
 
 
-### 🔹 Digital Logic Design
-- **Elevator Controller System (DEEDS Simulator)**
+### 🔹 Digital Logic 
+- [**Elevator Controller System (DEEDS Simulator)**](https://github.com/miqbaltariq/SECP1513202520261/blob/main/najmishahmi33-create/elavator%20deeds.pbs)
+
 
 ---
 
