@@ -48,7 +48,8 @@ Building data-driven solutions, writing efficient programs, and turning data int
 
 ### 🔹 Programming Techniques I (C++)
 - **Car Loan Calculator (C++ Console Application)**
-- **University Student Statistics Analyzer (C++)**
+- [**University Student Statistics Analyzer (C++)**](https://github.com/miqbaltariq/SECP1513202520261/edit/main/najmishahmi33-create/coding.cpp)
+
 
 ### 🔹 Digital Logic Design
 - **Elevator Controller System (DEEDS Simulator)**
